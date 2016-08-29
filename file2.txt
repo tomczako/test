@@ -1,2 +1,3 @@
 file2.txt
 cos nowego
+zmiana dla case123
